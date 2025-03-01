@@ -9,7 +9,8 @@
 Проверяем подключение к репозиторию:
 ![img 2](https://i.imgur.com/hEwhQXw.png)
 ![](https://i.imgur.com/6mAnQaa.png)
-3. Создание нужных файлов
+
+4. Создание нужных файлов
 ![](https://i.imgur.com/wE3IdML.png)
 Создаем папку с html разметкой, так же Dockerfile, в котором будет записаны утилиты, которые определяют поведение при создании образа
 ![](https://i.imgur.com/8DZbRPS.png)
